@@ -80,12 +80,12 @@ Running the script successfully.
 
 Opening the generated .csv file.
 
-👉 Watch the Video Demo here
+👉 Watch the Video Demo here 
 
 📂 Deliverables
 
 Python Script: GitHub Repo Link
 
-Video Recording: Google Drive Video Link
+Video Recording: Google Drive Video Link  https://drive.google.com/file/d/1LGDQHkeF2jkw6nCzeqZ3yx1V35N9JbDV/view?usp=sharing
 
 ✨ Developed by Taslima Akhter
